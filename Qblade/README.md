@@ -1,1 +1,1 @@
-This section Presents the Qblade files developped for the Airfoils NACA4412 and NACA6409 respectively .
+This section Presents the Qblade files developped for the Airfoils NACA4412 and NACA6409 respectively, make sure to have Qbalde (QBladeCE_2.0.9.4) downloaded otherwise you will not be able to read the files.
